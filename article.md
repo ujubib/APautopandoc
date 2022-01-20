@@ -6,12 +6,12 @@ date: 2021-12-18
 
 ## Introduction
 
-Variants of the wild-type Green Fluorescent Protein (wt-GFP) are widely used asin vivo fluorescent markers[@tsienGREENFLUORESCENTPROTEIN1998, @gordonServerEstimatingPKas2005].
+Variants of the wild-type Green Fluorescent Protein (wt-GFP) are widely used asin vivo fluorescent markers[@tsienGREENFLUORESCENTPROTEIN1998; @gordonServerEstimatingPKas2005].
 They can be fused to proteins of interest andthen allow for monitoring of cellular events by appropriate imaging techniques.
 In techniques based on FRET (Förster resonance energy transfer), the Enhanced Cyan Fluorescent Protein (ECFP) is extensively used as donor partner.
-However,ECFP presents suboptimal fluorescence properties, with a rather low quantum yield (near 0.4) and a non exponential fluorescence decay profile.
+However,ECFP presents suboptimal[@shanerAdvancesFluorescentProtein2011] fluorescence properties, with a rather low quantum yield (near 0.4) and a non exponential fluorescence decay profile.
 
-Cerulean is a variant of ECFP obtained by the three mutations S72A/Y145A/H148D, the last one (H148D) being specifically designed to avoid the existence of the two conformations found in ECFP.
+Cerulean is a variant of ECFP obtained by the three mutations S72A/Y145A/H148D, the last one (H148D) being specifically designed to avoid the existence of the two conformations found in ECFP.[@shanerAdvancesFluorescentProtein2011]
 Cerulean as well as the ECFP/H148D mutant were shown to have an improved quantum yield (respectively 0.62 and 0.68) and a more homogeneous fluorescence decay.
 
 ## Experiment
