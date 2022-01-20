@@ -6,7 +6,7 @@ date: 2021-12-18
 
 ## Introduction
 
-Variants of the wild-type Green Fluorescent Protein (wt-GFP) are widely used asin vivo fluorescent markers[@tsienGREENFLUORESCENTPROTEIN1998; @gordonServerEstimatingPKas2005].
+Variants of the wild-type Green Fluorescent Protein (wt-GFP) are widely used asin vivo fluorescent markers[@tsienGreenFluorescentProtein1998; @gordonServerEstimatingPKas2005].
 They can be fused to proteins of interest andthen allow for monitoring of cellular events by appropriate imaging techniques.
 In techniques based on FRET (Förster resonance energy transfer), the Enhanced Cyan Fluorescent Protein (ECFP) is extensively used as donor partner.
 However,ECFP presents suboptimal[@shanerAdvancesFluorescentProtein2011] fluorescence properties, with a rather low quantum yield (near 0.4) and a non exponential fluorescence decay profile.
@@ -21,9 +21,9 @@ The chromophore, carried by a central a-helix, is autocatalytically formed in a 
 
 The X-ray structure of Cerulean has been determined at pH 5.0 revealing several striking aspects.
 The chromophore is found in the cis conformation (according to the nomenclature used by Malo et al., which we will use throughout here, although it is mostly used for rotation around a double bond; (see Fig. 1) instead of trans in ECFP (X-ray structure at pH = 8.0).
-The lateral chain of the aspartic acid in position 148 (Asp148) which was expected to be exposed to the solvent is found inside the protein and stabilizes the chromophore by hydrogen bonds (H-bond).
+The lateral chain of the aspartic acid in position 148 (Asp148) which was expected to be exposed to the solvent is found inside the protein and stabilizes the chromophore by hydrogen bonds (H-bond).[@demachyCyanFluorescentProtein2005]
 In addition, the distance between one of the carboxylic oxygen and the backbone oxygen of Asp148 is 2.87 Å.
-Consistently, the authors infer that these two oxygens are hydrogen bonded and that Asp148 is protonated; we will henceforth refer to that interpretation as the intra-residue H-bond hypothesis.
+Consistently, the authors infer that these two oxygens are hydrogen bonded and that Asp148 is protonated; we will henceforth refer to that interpretation as the intra-residue H-bond hypothesis.[@nifosiVariationSpectralStructural2007]
 Another interesting feature is that the cleft is significantly wider than in the other GFP variants.
 
 In the same work, absorbance and fluorescence measurements show that the double-humped absorption spectrum in solution presents a blue shift of 11 and 15 nm occurring on the time scale of 1 h and that the fluorescence intensity decreases about 4-fold when the pH is lowered from 8.0 to 5.0.
