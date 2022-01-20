@@ -11,7 +11,7 @@ jobs:
           args: >-
             --filter pandoc-citeproc
             --bibliography references.bib
-            --csl iso690-author-date-fr-no-abstract.csl
+            --csl revista-de-la-real-academia-de-ciencias-exactas-fisicas-y-naturales-serie-a-matematicas.csl
             --metadata link-citations=true
             --from markdown+ascii_identifiers
             --to html5
