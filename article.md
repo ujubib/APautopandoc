@@ -6,7 +6,7 @@ date: 2021-12-18
 
 ## Introduction
 
-Variants of the wild-type Green Fluorescent Protein (wt-GFP) are widely used asin vivo fluorescent markers.
+Variants of the wild-type Green Fluorescent Protein (wt-GFP) are widely used asin vivo fluorescent markers[@tsienGREENFLUORESCENTPROTEIN1998, @gordonServerEstimatingPKas2005].
 They can be fused to proteins of interest andthen allow for monitoring of cellular events by appropriate imaging techniques.
 In techniques based on FRET (Förster resonance energy transfer), the Enhanced Cyan Fluorescent Protein (ECFP) is extensively used as donor partner.
 However,ECFP presents suboptimal fluorescence properties, with a rather low quantum yield (near 0.4) and a non exponential fluorescence decay profile.
